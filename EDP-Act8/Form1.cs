@@ -69,6 +69,13 @@ namespace EDP_Act8
 
                 // refresh data
                 empDataLoad();
+
+                // clear input from textboxes
+                fname_tbx.Clear();
+                lname_tbx.Clear();
+                email_tbx.Clear();
+                cnum_tbx.Clear();
+                dept_tbx.Clear();
             }
             catch (Exception ex)
             {
