@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Documents\Misty\BSIT 3A - Second Sem\EDP\EDP-Act8\bin\Debug\EDP-Act8.exe.config
+C:\Users\Lenovo\Documents\Misty\BSIT 3A - Second Sem\EDP\EDP-Act8\bin\Debug\EDP-Act8.exe
+C:\Users\Lenovo\Documents\Misty\BSIT 3A - Second Sem\EDP\EDP-Act8\bin\Debug\EDP-Act8.pdb
+C:\Users\Lenovo\Documents\Misty\BSIT 3A - Second Sem\EDP\EDP-Act8\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Documents\Misty\BSIT 3A - Second Sem\EDP\EDP-Act8\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Documents\Misty\BSIT 3A - Second Sem\EDP\EDP-Act8\obj\Debug\EDP-Act8.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Misty\BSIT 3A - Second Sem\EDP\EDP-Act8\obj\Debug\EDP_Act8.main_form.resources
+C:\Users\Lenovo\Documents\Misty\BSIT 3A - Second Sem\EDP\EDP-Act8\obj\Debug\EDP_Act8.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Misty\BSIT 3A - Second Sem\EDP\EDP-Act8\obj\Debug\EDP-Act8.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Misty\BSIT 3A - Second Sem\EDP\EDP-Act8\obj\Debug\EDP-Act8.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Misty\BSIT 3A - Second Sem\EDP\EDP-Act8\obj\Debug\EDP-Act8.csproj.Up2Date
+C:\Users\Lenovo\Documents\Misty\BSIT 3A - Second Sem\EDP\EDP-Act8\obj\Debug\EDP-Act8.exe
+C:\Users\Lenovo\Documents\Misty\BSIT 3A - Second Sem\EDP\EDP-Act8\obj\Debug\EDP-Act8.pdb
